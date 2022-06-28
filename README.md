@@ -1,4 +1,4 @@
-# Trabajo practico N°4: Escritura por medios Digitales
+# Trabajo practico N°1: Escritura por medios Digitales
 Desarrollar un código y un esquema electrónico básico que haga una secuencia de luces con 3 leds RGB.
 
 La secuencia es la siguiente: 
